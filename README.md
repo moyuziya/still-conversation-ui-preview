@@ -30,3 +30,7 @@ Created with Codex assistance and an AI-generated fictional adult portrait. No e
 For a scoped customization inquiry, open an issue describing the desired screen or interaction. Price and delivery timing will be agreed before work begins. Please do not post credentials or private customer data.
 
 This repository is a public product preview. The browser demo code is publicly visible for evaluation. The paid download supplies the packaged files, setup instructions, and personal/commercial end-product usage permission described on the product page. This preview repository does not grant a commercial-use or standalone redistribution license.
+
+## Implementation notes
+
+[Scroll ownership and cancellable pending replies](LAYOUT-NOTES.md) explains the prototype’s layout and reply lifecycle, with limitations and a practical review checklist.
